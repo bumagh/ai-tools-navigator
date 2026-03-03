@@ -1,156 +1,209 @@
-# 社交媒体文案（英文）
+# Social Media Content (English)
+
+> Posting time suggestions: Weekdays 9:00-11:00 AM or 6:00-8:00 PM (UTC), Weekends 10:00 AM (UTC)
 
 ---
 
-## 1. Reddit (r/artificial)
+## Reddit (r/artificial) - Show Post Format
 
-**Post Format**：
+### Post Title:
+**[Show] I built an AI Tools Navigator with 30+ tools across 6 categories**
 
-**I built a curated AI tools navigator - find the best AI tools in one place** 🚀
+### Post Body:
+Hey everyone! 👋
 
-Hey r/Artificial!
-
-I've been frustrated with how scattered AI tools are across the internet, so I built **AI Tools Navigator** - a clean, organized directory of the best AI tools available.
+I've been working on a curated collection of the best AI tools available right now. Just launched the site and would love to get your feedback!
 
 **What's included:**
-- 💬 ChatGPT, Claude - AI Chat
-- 🎨 Midjourney, Stable Diffusion - Image Generation
-- 💻 GitHub Copilot - Code Assistant
-- 📝 Notion AI, Jasper - Writing Tools
-- 🎬 Runway - Video Generation
+- 📝 Writing: ChatGPT, Claude, Jasper
+- 🎨 Image Generation: Midjourney, DALL-E, Leonardo.ai
+- 🎬 Video: Runway, Pika, HeyGen
+- 💻 Programming: Cursor, GitHub Copilot, Codeium
+- ⚡ Productivity: Perplexity, Gamma, Gemini
+- 🎙️ Transcription: Otter.ai, Descript
 
-**Why use it?**
-✅ Curated selection (no overwhelm)
-✅ Categorized by function
-✅ Direct links to tools
-✅ Always updated
+Each tool has:
+✅ Rating (1-5 stars)
+✅ Pricing (Free/Freemium/Paid)
+✅ Description
+✅ Direct link to官网
 
-Check it out: https://ai-tools-navigator.vercel.app
+Check it out: **https://ai-tools-navigator.vercel.app**
 
-Would love your feedback! What AI tools should I add next?
-
----
-
-**Post Flair**: [Showcase] or [Tools]
-
-**Release Time**: Reddit best times - EST 7:00-9:00 AM, 12:00-2:00 PM, 7:00-9:00 PM
+Would love to hear what tools you'd add or any suggestions! 🙏
 
 ---
 
-## 2. HackerNews (Show HN)
+## Hacker News - Show HN Format
 
-**Show HN Format**：
+### Title:
+**Show HN: AI Tools Navigator - A curated list of 30+ AI tools**
 
-**Show HN: AI Tools Navigator - A curated directory of the best AI tools**
+### Body:
+Hey HN! 👋
 
-I built **AI Tools Navigator** (https://ai-tools-navigator.vercel.app) because I was tired of searching for AI tools across dozens of different websites.
+I built **AI Tools Navigator** - a simple, curated directory of the best AI tools available in 2026.
 
 **Features:**
-- Curated collection of top AI tools
-- Organized by category (Chat, Image, Code, Writing, Video)
+- 30+ hand-picked AI tools
+- 6 categories: Writing, Image Generation, Video, Programming, Productivity, Transcription
+- Clear pricing labels (Free/Freemium/Paid)
+- Ratings and descriptions
 - Direct links to each tool
-- Clean, distraction-free interface
 
-**Currently featured tools:**
-- ChatGPT, Claude (conversational AI)
-- Midjourney, Stable Diffusion (image generation)
-- GitHub Copilot (coding assistant)
-- Notion AI, Jasper (writing)
-- Runway (video)
+**Popular tools included:**
+- ChatGPT, Claude (Writing)
+- Midjourney, DALL-E, Leonardo.ai (Image)
+- Runway, Pika (Video)
+- Cursor, GitHub Copilot (Coding)
+- Perplexity (Search)
+- Otter.ai (Transcription)
 
-I'd love to get feedback from the HN community on what tools to add next!
+Live site: https://ai-tools-navigator.vercel.app
 
----
-
-**Release Time**: HackerNews best times - 7:00-9:00 AM PST (3:00-5:00 PM UTC)
+Would love feedback and suggestions for tools to add! 🚀
 
 ---
 
-## 3. Twitter/X Thread (3 tweets, 280 chars each)
+## Twitter/X - Thread (3 tweets)
 
-**Tweet 1**：
-🧵 Want to try AI tools but don't know where to start?
+### Tweet 1:
+🧵 Building with AI in 2026? Here's a curated list of 30+ essential tools you need to know about:
 
-I built a free curated directory of the best AI tools out there 👇
+1. **ChatGPT** - The OG AI chatbot
+2. **Claude** - Great for long-form writing
+3. **Midjourney** - Best AI image generator
+4. **Cursor** - AI-powered code editor
+5. **Perplexity** - AI search that cites sources
 
-Check it out: https://ai-tools-navigator.vercel.app
+👇 Thread 🧵
 
-#AI #ArtificialIntelligence #Tech
+### Tweet 2:
+6. **Runway** - AI video editing & generation
+7. **Leonardo.ai** - Free alternative to Midjourney
+8. **GitHub Copilot** - Your AI coding partner
+9. **Gamma** - AI presentations in seconds
+10. **Otter.ai** - Meeting transcription done right
 
----
+All these + 20 more tools 👉 https://ai-tools-navigator.vercel.app
 
-**Tweet 2**：
-What's included:
-💬 ChatGPT, Claude - conversations
-🎨 Midjourney, Stable Diffusion - images
-💻 GitHub Copilot - coding
-📝 Notion AI - writing
-🎬 Runway - video
+### Tweet 3:
+I've organized them into 6 clear categories:
+📝 Writing | 🎨 Image | 🎬 Video | 💻 Code | ⚡ Productivity | 🎙️ Transcription
 
-No more endless searching. Just pick a category and go.
+Each tool has ratings, pricing info (Free/Paid), and direct links.
 
-#AI Tools #Productivity
+🔗 Check it out: https://ai-tools-navigator.vercel.app
 
----
-
-**Tweet 3**：
-The best part? It's completely free and always updated with the latest AI tools.
-
-Bookmarked by 100+ developers already 🚀
-
-👉 https://ai-tools-navigator.vercel.app
-
-#BuildInPublic #Startup
+Would love to hear your favorite AI tools! 🙌
 
 ---
 
-**Thread Release Time**: Twitter best times - 9:00-11:00 AM EST, 12:00-2:00 PM EST, 5:00-7:00 PM EST
+## LinkedIn Post
+
+### Title:
+**30+ AI Tools Every Professional Should Know About in 2026**
+
+### Body:
+As AI continues to transform how we work, keeping up with the best tools can be overwhelming. That's why I put together this curated collection of the most useful AI tools available right now.
+
+📝 **Writing & Content:**
+- ChatGPT, Claude, Jasper
+
+🎨 **Image Generation:**
+- Midjourney, DALL-E, Leonardo.ai
+
+🎬 **Video Creation:**
+- Runway, Pika, HeyGen
+
+💻 **Programming:**
+- Cursor, GitHub Copilot, Codeium
+
+⚡ **Productivity:**
+- Perplexity, Gamma, Google Gemini
+
+🎙️ **Transcription:**
+- Otter.ai, Descript
+
+Each tool includes ratings, pricing (Free/Freemium/Paid), and descriptions to help you choose the right one.
+
+🔗 Explore the full list: https://ai-tools-navigator.vercel.app
+
+What AI tools are you using? Would love to hear your recommendations! 👇
+
+#AI #Productivity #Tools #ChatGPT #Midjourney #Programming #Design
 
 ---
 
-## 4. ProductHunt
+## Product Hunt
 
-**Tagline**：
-A curated directory of the best AI tools - find your perfect AI assistant in seconds
+### Tagline:
+**AI Tools Navigator - Discover the best AI tools across 6 categories**
 
-**Description**：
+### Description:
+A curated directory of 30+ hand-picked AI tools organized into 6 categories: Writing, Image Generation, Video, Programming, Productivity, and Transcription.
 
-AI Tools Navigator is your one-stop destination for discovering the best AI tools available online.
+Each tool comes with:
+- ⭐ Star rating
+- 💰 Pricing info (Free/Freemium/Paid)
+- 📝 Description
+- 🔗 Direct link
 
-**Features:**
-🎯 Curated selection of top AI tools
-📂 Organized by category (Chat, Image, Code, Writing, Video)
-⚡️ Quick access to each tool's website
-🔄 Regularly updated with new tools
+Perfect for developers, designers, content creators, and anyone looking to leverage AI in their workflow.
 
-**Featured Tools:**
-- ChatGPT, Claude - Conversational AI
-- Midjourney, Stable Diffusion - Image Generation  
-- GitHub Copilot - Code Assistant
-- Notion AI, Jasper - Writing Tools
-- Runway - Video Generation
+**Categories:**
+- Writing: ChatGPT, Claude, Jasper
+- Image: Midjourney, DALL-E, Leonardo.ai
+- Video: Runway, Pika
+- Programming: Cursor, GitHub Copilot
+- Productivity: Perplexity, Gamma
+- Transcription: Otter.ai
 
-Whether you're a developer, designer, writer, or just curious about AI - find the perfect tool for your needs.
-
-**Made for:**
-- Developers looking for coding assistants
-- Designers exploring AI image generation
-- Writers needing content help
-- Anyone interested in AI tools
-
-🚀 Launching on ProductHunt today! Your support means everything.
+🔗 Visit: https://ai-tools-navigator.vercel.app
 
 ---
 
-**Release Time**: ProductHunt launch time - Typically Tuesday-Thursday 12:00 AM PST (8:00 AM UTC)
+## Facebook Post
+
+### Post:
+🚀 Just launched AI Tools Navigator!
+
+A curated collection of 30+ of the best AI tools available in 2026.
+
+Whether you're:
+- 📝 Writing content
+- 🎨 Creating images
+- 🎬 Making videos
+- 💻 Coding
+- ⚡ Boosting productivity
+- 🎙️ Transcribing meetings
+
+We've got you covered!
+
+Each tool has ratings, pricing info, and direct links.
+
+🔗 Check it out: https://ai-tools-navigator.vercel.app
+
+#AI #Tools #Productivity #ChatGPT #Midjourney #Design #Coding
 
 ---
 
-**Release Schedule Summary**:
+## Instagram Post
 
-| Platform | Best Release Time |
-|----------|-------------------|
-| Reddit r/artificial | 7:00-9:00 AM / 12:00-2:00 PM / 7:00-9:00 PM EST |
-| HackerNews | 7:00-9:00 AM PST (3:00-5:00 PM UTC) |
-| Twitter/X | 9:00-11:00 AM / 12:00-2:00 PM / 5:00-7:00 PM EST |
-| ProductHunt | Tuesday-Thursday 12:00 AM PST |
+### Image Suggestion: Infographic with tool categories
+### Caption:
+AI tools overload? 😵‍💫
+
+Here's your go-to resource for 2026! 📱
+
+30+ tools across 6 categories:
+📝 Writing
+🎨 Image
+🎬 Video
+💻 Code
+⚡ Productivity
+🎙️ Transcription
+
+Link in bio 🔗
+
+#AI #ArtificialIntelligence #Tools #Productivity #ChatGPT #Midjourney #DesignTools #Tech #Future

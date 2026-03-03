@@ -17,15 +17,39 @@ const Header: React.FC = () => {
           <nav className="hidden md:block">
             <ul className="flex items-center space-x-8">
               <li>
-                <Link 
-                  href="/" 
+                <Link
+                  href="/"
                   className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
                 >
                   首页
                 </Link>
               </li>
               <li>
-                <a 
+                <Link
+                  href="/free"
+                  className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
+                >
+                  免费工具
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/blog"
+                  className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
+                >
+                  博客
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/about"
+                  className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
+                >
+                  关于
+                </Link>
+              </li>
+              <li>
+                <a
                   href="https://github.com/bumagh/ai-tools-navigator"
                   target="_blank"
                   rel="noopener noreferrer"
