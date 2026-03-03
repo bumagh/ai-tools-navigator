@@ -1,79 +1,122 @@
-# 社媒推广文案 (2026-03-03)
+# 社媒发布文案
+# Generated: 2026-03-04
 
-## 小红书
+## 📅 今日内容
 
-🎉 发现一个超好用的 AI 工具导航网站！
+### 1. 项目更新：新增本地运行 LLM 工具分类
 
-**AI Tools Navigator** 收录了全网最全的 AI 工具，包括文本、图像、代码、音视频等多个领域。
+#### 小红书
+---
+🏠 **本地运行 AI 工具推荐｜Privacy First 开发者必看**
 
-✅ 免费工具专区，找工具不花冤枉钱
-✅ 博客资讯，学技巧更轻松
-✅ Newsletter 订阅，最新工具第一时间get
+姐妹们！今天更新了 ValuePro AI导航，新增了「本地运行 LLM」工具分类！
 
-🔗 访问：ai-tools-navigator.vercel.app
+🥷 意味着什么？
+✅ 数据完全不出你的电脑
+✅ 无限次使用不用花钱调用 API
+✅ 离线也能跑 AI 助手
+✅ 隐私敏感项目福音
 
-#AI工具 #人工智能 #效率神器 #免费工具 #AI导航 #科技生活
+📦 新增工具：
+• Ollama - 一行命令启动各种模型
+• LM Studio - 桌面 GUI 超友好
+• llmfit - 消费级显卡也能跑
+
+🔗 戳链接查看完整列表→
+
+#AI工具 #本地部署 #开发者 #隐私保护 #Ollama #LMStudio #2026科技
 
 ---
 
-## 微博
+#### Twitter / X
+---
+🚀 Just launched: Local LLM tools category on ValuePro AI!
 
-我发现了一个超好用的 AI 工具导航网站！🎯
+Run AI models on YOUR machine:
+• @ollama - CLI for open-source LLMs
+• LM Studio - Beautiful desktop GUI  
+• llmfit - Optimize for consumer GPUs
 
-AI Tools Navigator 收录了全网最全的 AI 工具，还有免费工具专区、博客资讯...
+🔒 Privacy-first. Zero API costs. Offline capable.
 
-免费工具 | 博客教程 | Newsletter 订阅
+Check it out: [link]
 
-👉 ai-tools-navigator.vercel.app
-
-#AI工具 #人工智能
+#AI #LocalLLM #DevTools #MCP
 
 ---
 
-## V2EX / 即刻
+#### Reddit
+---
+**Just added: Local LLM Tools to ValuePro AI Navigator**
 
-🆕 今日新发现：AI Tools Navigator
+What's new:
+- Ollama (popular local runtime)
+- LM Studio (desktop GUI)
+- llmfit (hardware optimization)
 
-一个专注于 AI 工具收录和推荐的导航平台，适合：
-- 想要探索 AI 工具但无从下手的初学者
-- 需要寻找特定领域工具的从业者
-- 关注 AI 行业动态的学习者
+Why local? Privacy, zero API costs, offline capable.
 
-亮点：
-• 工具分类清晰，查找高效
-• 独立免费工具专区
-• 定期更新工具资讯
-
-🔗 访问：ai-tools-navigator.vercel.app
+Feedback welcome!
 
 ---
 
-## Twitter/X Thread
+### 2. 行业洞察：MCP 生态
 
-🧵 发现了一个超好用的 AI 工具导航网站！
+#### 小红书
+---
+🤖 **2026年AI新基建｜MCP是什么？**
 
-1/ 在 AI 工具爆炸的今天，找到适合自己的工具越来越难。我发现了 AI Tools Navigator，一个专门整理 AI 工具的导航平台。
+姐妹们！今天深度研究了 MCP（模型上下文协议），这玩意儿太重要了！
 
-2/ 收录了文本、图像、代码、音视频等多个领域的 AI 工具，还特别设立了免费工具专区，再也不怕花冤枉钱啦！
+🔑 简单说：MCP = AI 领域的 USB-C
+让 AI 能够连接外部世界的方式标准化
 
-3/ 博客板块会定期发布工具使用教程和行业动态，帮助你更好地了解和运用 AI。
+📊 现状：
+• 7个官方服务器（文件/Git/搜索...）
+• 10种语言 SDK
+• 社区 272 个 Issue
 
-4/ 偷偷告诉你，还可以订阅 Newsletter，第一时间获取最新工具和资讯哦～
+💡 对开发者的意义：
+以后 AI 不只是聊天，能帮你**真正干活**了！
 
-📍 访问：ai-tools-navigator.vercel.app
+想看详细解读？戳→
+
+#AI #MCP #2026趋势 #技术科普 #开发者
 
 ---
 
-## Reddit / HackerNews (Show 格式)
+#### Twitter / X
+---
+🔗 MCP (Model Context Protocol) is becoming the "USB-C for AI"
 
-Show: AI Tools Navigator - 一个全面的 AI 工具导航平台
+It's the open standard that lets AI connect to external tools & data sources.
 
-我创建了一个 AI 工具导航网站，帮助大家发现和筛选优质 AI 工具。
+Current state (Mar 2026):
+• 7 official servers
+• 10 language SDKs
+• Growing community
 
-🔹 收录工具覆盖：文本处理、图像生成、代码辅助、音视频
-🔹 免费工具专区：无需付费即可体验前沿 AI
-🔹 博客资讯：工具使用教程、行业动态
+Why it matters: AI is evolving from "chat tool" → "action agent"
 
-欢迎访问：https://ai-tools-navigator.vercel.app
+Read our deep dive: [link]
 
-欢迎提交新的工具推荐或反馈使用体验！
+#AI #MCP #DevTools #Anthropic
+
+---
+
+#### 微博
+---
+#2026年AI新趋势#
+MCP（Model Context Protocol）正在成为 AI 与系统集成的新标准，被称为"AI 领域的 USB-C"。
+
+目前已支持 7 个官方服务器、10 种语言 SDK。AI 从"问答工具"向"行动助手"演进的趋势已经很明显了。
+
+详细解读：[链接]
+
+---
+
+## 📌 发布优先级
+1. 小红书 x2（项目更新 + 行业洞察）
+2. Twitter x2
+3. 微博 x1
+4. Reddit x1（可选）
