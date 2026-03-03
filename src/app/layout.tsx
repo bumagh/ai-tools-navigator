@@ -14,9 +14,26 @@ export const metadata: Metadata = {
   },
 };
 
+// Google Analytics 4 追踪代码
+const GA_MEASUREMENT_ID = 'G-XXXXXXXXXX'; // TODO: 替换为实际的 GA4 Measurement ID
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="zh-CN">
+      <head>
+        {/* Google Analytics */}
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${GA_MEASUREMENT_ID}');
+            `,
+          }}
+        />
+      </head>
       <body className="bg-gray-50 text-gray-900 antialiased min-h-screen flex flex-col">
         <Header />
         <main className="flex-grow">

@@ -1,4 +1,6 @@
 // src/components/ToolCard.tsx
+'use client';
+
 import React from 'react';
 import Link from 'next/link';
 import { ExternalLink, Star, Sparkles } from 'lucide-react';
@@ -17,6 +19,20 @@ interface Tool {
 }
 
 const ToolCard: React.FC<{ tool: Tool }> = ({ tool }) => {
+  // 处理工具点击事件
+  const handleToolClick = () => {
+    // 触发 GA4 工具点击事件
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', 'tool_click', {
+        event_category: 'engagement',
+        event_label: tool.name,
+        tool_category: tool.category,
+        tool_id: tool.id,
+      });
+    }
+    console.log(`[Analytics] Tool clicked: ${tool.name} (${tool.category})`);
+  };
+
   return (
     <div className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-all duration-300 h-full flex flex-col border border-gray-100">
       <div className="p-5 flex-grow">
@@ -63,6 +79,7 @@ const ToolCard: React.FC<{ tool: Tool }> = ({ tool }) => {
           href={tool.url} 
           target="_blank" 
           rel="noopener noreferrer"
+          onClick={handleToolClick}
           className="flex items-center justify-center text-blue-600 hover:text-blue-800 text-sm font-medium"
         >
           访问工具

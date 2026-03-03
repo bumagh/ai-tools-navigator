@@ -4,6 +4,7 @@ import React, { useState, useMemo } from 'react';
 import SearchBar from '@/components/SearchBar';
 import CategoryFilter from '@/components/CategoryFilter';
 import ToolCard from '@/components/ToolCard';
+import Newsletter from '@/components/Newsletter';
 import { tools } from '@/data/tools';
 import { Sparkles, TrendingUp } from 'lucide-react';
 
@@ -124,6 +125,11 @@ export default function Home() {
               ))}
             </div>
           )}
+        </div>
+
+        {/* Newsletter 订阅 */}
+        <div className="mt-16">
+          <Newsletter />
         </div>
       </main>
     </div>
