@@ -143,6 +143,42 @@ export const tools: Tool[] = [
     pricing: "Freemium"
   },
 
+  // 本地运行 LLM
+  {
+    id: "31",
+    name: "Ollama",
+    description: "在本地一键运行 Llama、Mistral、Gemma 等开源大模型，支持模型管理与 API 调用，适合开发者本地推理与私有化实验",
+    url: "https://ollama.com",
+    category: "本地运行LLM",
+    rating: 5,
+    tags: ["本地运行", "LLM", "开源", "API"],
+    isFree: true,
+    isPopular: true,
+    pricing: "免费"
+  },
+  {
+    id: "32",
+    name: "LM Studio",
+    description: "本地运行与管理 GGUF 模型的桌面应用，支持聊天与 OpenAI 兼容 API，适合本地离线推理与开发测试",
+    url: "https://lmstudio.ai",
+    category: "本地运行LLM",
+    rating: 5,
+    tags: ["本地运行", "LLM", "离线", "桌面应用"],
+    isFree: true,
+    pricing: "免费"
+  },
+  {
+    id: "33",
+    name: "llmfit",
+    description: "将 LLM 适配到本地硬件的工具/工作流，帮助在不同设备上更高效地运行模型（关注社区更新与兼容性）",
+    url: "https://github.com/search?q=llmfit&type=repositories",
+    category: "本地运行LLM",
+    rating: 4,
+    tags: ["本地运行", "LLM", "硬件适配", "开发者工具"],
+    isFree: true,
+    pricing: "开源"
+  },
+
   // 图像生成
   {
     id: "7",
