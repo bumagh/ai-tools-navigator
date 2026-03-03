@@ -65,6 +65,20 @@ export const categories: Category[] = [
     slug: "transcription",
     description: "AI语音转文字、会议记录工具",
     icon: "🎙️"
+  },
+  {
+    id: "7",
+    name: "语音代理",
+    slug: "voice-agents",
+    description: "低延迟语音对话、电话外呼、实时语音 AI Agent 开发与部署工具",
+    icon: "📞"
+  },
+  {
+    id: "8",
+    name: "本地运行LLM",
+    slug: "local-llm",
+    description: "本地部署与运行开源大模型（Ollama/LM Studio 等）",
+    icon: "🧠"
   }
 ];
 
@@ -314,14 +328,51 @@ export const tools: Tool[] = [
   {
     id: "18",
     name: "Cursor",
-    description: "基于 AI 的代码编辑器，集成 GPT-4 用于代码补全、调试和重构",
-    url: "https://cursor.sh",
+    description: "AI 代码编辑器，支持在编辑器内直接对话/改代码；也常被用来快速集成语音/对话等 Agent 能力",
+    url: "https://cursor.com",
     category: "编程开发",
     rating: 5,
-    tags: ["代码编辑器", "AI编程", "补全", "重构"],
+    tags: ["代码编辑器", "AI编程", "Agent", "重构"],
     isFree: true,
     isPopular: true,
     pricing: "Freemium"
+  },
+
+  // 语音代理
+  {
+    id: "34",
+    name: "Vapi",
+    description: "面向开发者的 Voice Agent 平台，提供低延迟语音对话、电话接入、工具调用与观测能力",
+    url: "https://vapi.ai",
+    category: "语音代理",
+    rating: 5,
+    tags: ["voice agent", "电话", "低延迟", "API"],
+    isFree: true,
+    isPopular: true,
+    pricing: "Freemium"
+  },
+  {
+    id: "35",
+    name: "Bland",
+    description: "专注电话外呼/呼入的 AI Voice Agent 平台，适合销售、客服、预约等场景",
+    url: "https://www.bland.ai",
+    category: "语音代理",
+    rating: 4,
+    tags: ["voice agent", "外呼", "客服", "电话"],
+    isFree: false,
+    isPopular: true,
+    pricing: "付费"
+  },
+  {
+    id: "36",
+    name: "Pipecat",
+    description: "开源的实时语音/多模态 Agent 框架，支持流式 ASR/TTS/LLM 编排，适合自建低延迟语音管线",
+    url: "https://github.com/pipecat-ai/pipecat",
+    category: "语音代理",
+    rating: 4,
+    tags: ["开源", "实时", "ASR", "TTS"],
+    isFree: true,
+    pricing: "开源"
   },
   {
     id: "19",
